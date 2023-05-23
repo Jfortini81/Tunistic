@@ -24,8 +24,8 @@ Instead of using multiple, complex algorithms with unknown variables to generate
 
 ## Installation and Execution
 1. Clone the repository.
-2. Run 'flutter pub get' to install all of the depedencies.
-3. Run 'flutter run' to execute the program.
+2. Run `flutter pub get` to install all of the depedencies.
+3. Run `flutter run` to execute the program.
 
 ## Screenshots
 ![Start Screen](https://github.com/Jfortini81/Tunistic/assets/98045899/c0faec7a-ac8b-46bd-b279-42e61f3440e0")
